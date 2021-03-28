@@ -1,0 +1,202 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.fav{
+    width: 200px
+}
+
+.popsem{
+    font-weight: 500;
+    font-size: 16px;
+}
+.button-up{
+    padding: 5px 25px;
+    text-align: center;
+    background-color: rgba(33, 181, 115, 1);
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+    
+}
+.button-up a{
+    color: white;
+}
+.ready{
+    color:rgba(253, 81, 26, 1);
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.top-part span{
+    color:rgba(33, 181, 115, 1);
+}
+.top-part h2{
+    font-weight: 700;
+    font-size: 48px;
+}
+.top-paragraph{
+    font-size: 16px;
+    color: grey;
+    font-weight: 400;
+}
+.top-part-text{
+    margin-top: 150px;
+}
+.illustration{
+    width: 600px;
+    margin-top: 0;
+}
+.illus2{
+    margin-top: 110px;
+}
+
+.top-bg{
+    background-color:rgba(240, 255, 240, 1);
+    height: 650px;
+}
+.icon{
+    height: 80px;
+    width: 70px;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.section{
+    height: 600px;
+    
+}
+.box{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+}
+.box h5,h6{
+    text-align: center;
+}
+.second-part{
+    margin-top: 100px;
+    height: 400px;
+}
+.shade{
+    background-color: white;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.1);
+}
+.box h5{
+    font-size: 20px;
+    font-weight: 500;
+    color:rgba(65, 57, 96, 1);
+}
+.box h6{
+    font-size: 14px;
+    font-weight: 400;
+    color:rgba(65, 57, 96, 1);
+    
+}
+.online-courses{
+    margin-top: 100px;
+    height: 700px;
+    margin-bottom: 100px;
+}
+.online-courses h3{
+    font-size: 36px;
+    color:rgba(65, 57, 96, 1);
+    text-align: center;
+    font-weight: 700;
+}
+.photopad{
+    margin:22px;
+    height: 280px;
+    width: 370px;
+}
+.cardshadow{
+    border: none;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.1);
+
+}
+.card-title{
+    font-size: 24px;
+    font-weight: 600;
+    color:rgba(65, 57, 96, 1);
+    padding-left: 5px;
+
+}
+.breif{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding-left: 7px;
+    color:rgba(88, 88, 89, 1);
+}
+.tiny-icons{
+    width: 30px;
+    height: 30px;
+    
+}
+.icondescrip{
+    padding-left: 5px;
+    padding-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    color:rgba(88, 88, 89, 1);
+}
+.testimonials{
+    height: 400px;
+}
+.testimonials h3{
+    font-size: 36px;
+    color:black;
+    text-align: center;
+    font-weight:bolder;
+
+}
+.man{
+    height: 130px;
+    width: 130px;
+}
+.textdiv{
+    height: 90px;
+    width: 580px;
+    margin-right: 300px;
+}
+.textdiv p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+.moveman{
+    padding-left: 280px;
+}
+
+    
+.bottom-part{
+    height: 200px;
+    padding-top: 100px;
+}
+.last-part{
+    height: 400px;
+    background-color: #282531;
+}
+.bottom-part h6{
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+.content{
+    width: 370px;
+    height: 60px;
+    margin-right: 50px;
+}
+.highlight{
+    font-weight: 600 !important;
+}
+.first h6{
+    text-align: left;
+}
+.footer{
+    color:white;
+    text-align: center;
+    font-weight: 300;
+}
